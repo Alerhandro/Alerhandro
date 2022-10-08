@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alerhandro
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Java and JS
 - 📫 How to reach me, you can call me right here I will always be online as much as possible
 
 <!---
